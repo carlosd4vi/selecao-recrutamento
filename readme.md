@@ -1,9 +1,10 @@
-# ![Logo Grupo 3x](https://archive.org/download/sua_logo/sua_logo.jpg) - Grupo 3x
+# ![Logo Grupo 3x](https://archive.org/download/sua_logo/sua_logo.jpg) 
+# Grupo 3x
 
 O Grupo 3x é um dos maiores conglomerados varejistas do Ceará, fundado em 1979 na cidade de Maracanaú, destacando-se fortemente no setor de alimentos com o Frangolândia Supermercados. Atualmente, a rede abrange mais de 20 unidades, incluindo a bandeira Mega Atacadista e a plataforma de inovação digital, o app de compras Levoo.
 
 ## 🎯 Projeto de Seleção e Recrutamento
-O intuito do Projeto é ajudar os recrutadores a centralizar a atração de talentos, padronizar o recebimento de candidaturas e otimizar drasticamente o tempo de análise dos perfis. Através de uma plataforma própria, o sistema elimina a dependência de plataformas de terceiros e e-mails desorganizados, oferecendo um fluxo de trabalho seguro, automatizado e sob medida para a alta demanda de contratações das diversas marcas do grupo.
+O intuito do Projeto é ajudar os recrutadores a centralizar a atração de talentos, padronizar o recebimento de candidaturas e otimizar drasticamente o tempo de análise dos perfis. Através de uma plataforma própria, o sistema elimina a dependência de plataformas de terceiros, oferecendo um fluxo de trabalho seguro, automatizado e sob medida para a alta demanda de contratações das diversas marcas do grupo.
 
 ## 📸 Visão Geral da Plataforma
 
