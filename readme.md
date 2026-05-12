@@ -18,6 +18,16 @@ A Página apresenta a cultura, os valores e a dimensão do Grupo 3x de forma atr
 
 Uma Página dinâmica com todas as oportunidades disponíveis no momento. Os candidatos podem navegar pelas vagas, visualizar requisitos, benefícios e regime de trabalho, e realizar a candidatura de forma ágil e segura, submetendo seus dados e currículos em PDF através de um formulário.
 
+### Detalhes da Vaga
+![Print do Painel de Vagas](https://archive.org/download/detalhes_202605/detalhes.PNG)
+
+Nos Detalhes da Vaga contém titulo, Tipo de Vaga (Ex: Efetivo (CLT)), Localidade, Salário, Modelo de Trabalho, Atividades, Requisitos e Benefícios da empresa. e logo abaixo o Formulário.
+
+### Formulário do Candidato
+![Print do Formulário Candidato](https://archive.org/download/vaga-candidatar/vaga-candidatar.PNG)
+
+É um Formulário Público onde qualquer pessoa tem a possibilidade de candidatar-se (Sem precisar criar uma conta). O Formulário conta com uma segurança de Recaptcha contra bots e automações, e verificações de arquivos maliciosos. E também PDFs com senha. (Será notificado ao usuário caso ocorrer).
+
 ### Lojas
 ![Print da Lojas](https://ia902904.us.archive.org/17/items/lojas_202605/lojas.PNG)
 
@@ -27,11 +37,6 @@ A Página apresenta as unidades disponiveis das Lojas Frangolândia em bairros, 
 ![Print do Contato](https://archive.org/download/lojas_202605/contato.PNG)
 
 A Página apresenta contatos para o CD (Central) Maracanaú e Lojas de Fortaleza.
-
-### Formulário do Candidato
-![Print do Formulário Candidato](https://archive.org/download/vaga-candidatar/vaga-candidatar.PNG)
-
-É um Formulário Público onde qualquer pessoa tem a possibilidade de candidatar-se (Sem precisar criar uma conta). O Formulário conta com uma segurança de Recaptcha contra bots e automações, e verificações de arquivos maliciosos. E também PDFs com senha. (Será notificado ao usuário caso ocorrer).
 
 ## ⚙️ Área Restrita (Painel do Recrutador)
 
