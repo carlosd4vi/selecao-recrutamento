@@ -1,7 +1,7 @@
 # ![Logo Grupo 3x](https://archive.org/download/sua_logo/sua_logo.jpg) 
 # Grupo 3x
 
-O Grupo 3x é um dos maiores conglomerados varejistas do Ceará, fundado em 1979 na cidade de Maracanaú, destacando-se fortemente no setor de alimentos com o Frangolândia Supermercados. Atualmente, a rede abrange mais de 20 unidades, incluindo a bandeira Mega Atacadista e a plataforma de inovação digital, o app de compras Levoo.
+O Grupo 3x é um dos maiores varejistas do Ceará, fundado em 1979 na cidade de Maracanaú, destacando-se fortemente no setor de alimentos com o Frangolândia Supermercados. Atualmente, a rede abrange mais de 20 unidades, incluindo a bandeira Mega Atacadista e a plataforma de inovação digital, o app de compras Levoo.
 
 ## 🎯 Projeto de Seleção e Recrutamento
 O intuito do Projeto é ajudar os recrutadores a centralizar a atração de talentos, padronizar o recebimento de candidaturas e otimizar drasticamente o tempo de análise dos perfis. Através de uma plataforma própria, o sistema elimina a dependência de plataformas de terceiros, oferecendo um fluxo de trabalho seguro, automatizado e sob medida para a alta demanda de contratações das diversas marcas do grupo.
@@ -13,6 +13,11 @@ O intuito do Projeto é ajudar os recrutadores a centralizar a atração de tale
 
 A Página apresenta a cultura, os valores e a dimensão do Grupo 3x de forma atrativa, moderna e responsiva. É o cartão de visitas digital que fortalece a marca empregadora da empresa e engaja os talentos a fazerem parte da equipe.
 
+### Vagas
+![Print do Painel de Vagas](https://archive.org/download/home-vagas/home-vagas.PNG)
+
+Uma Página dinâmica com todas as oportunidades disponíveis no momento. Os candidatos podem navegar pelas vagas, visualizar requisitos, benefícios e regime de trabalho, e realizar a candidatura de forma ágil e segura, submetendo seus dados e currículos em PDF através de um formulário.
+
 ### Lojas
 ![Print da Lojas](https://ia902904.us.archive.org/17/items/lojas_202605/lojas.PNG)
 
@@ -22,12 +27,6 @@ A Página apresenta as unidades disponiveis das Lojas Frangolândia em bairros, 
 ![Print do Contato](https://archive.org/download/lojas_202605/contato.PNG)
 
 A Página apresenta contatos para o CD (Central) Maracanaú e Lojas de Fortaleza.
-
-
-### Vagas
-![Print do Painel de Vagas](https://archive.org/download/home-vagas/home-vagas.PNG)
-
-Uma Página dinâmica com todas as oportunidades disponíveis no momento. Os candidatos podem navegar pelas vagas, visualizar requisitos, benefícios e regime de trabalho, e realizar a candidatura de forma ágil e segura, submetendo seus dados e currículos em PDF através de um formulário.
 
 ### Formulário do Candidato
 ![Print do Formulário Candidato](https://archive.org/download/vaga-candidatar/vaga-candidatar.PNG)
